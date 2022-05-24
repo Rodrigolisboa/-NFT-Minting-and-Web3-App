@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# NFT Minting and Web 3 App
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Based on a BuildSpace project where I learned to programmatically generate an NFT collection, write and deploy a smart contract in Solidity, and build a React dApp that allows users to connect their Ethereum wallets (Rinkeby testnet) to interact with NFTs.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Link: https://nft-starter-project.rodrigolisboa2.repl.co/
